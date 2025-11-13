@@ -1,6 +1,8 @@
-
+*
 __pycache__/
 data/raw/
 data/interim/
 .env
+.conda
+
 
